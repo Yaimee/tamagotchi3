@@ -1,0 +1,12 @@
+public enum Level {
+    LEVELONE,
+    LEVELTWO,
+    LEVELTHREE,
+    LEVELFOUR,
+    LEVELFIVE,
+    LEVELSIX,
+    LEVELSEVEN,
+    LEVELEIGHT,
+    LEVELNINE,
+    LEVELTEN;
+}
